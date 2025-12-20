@@ -1,0 +1,21 @@
+student_id,study_hours,city,country,test_score,passed
+1,2.5,New York,USA,72,No
+2,5.8,London,UK,88,Yes
+3,1.2,Tokyo,Japan,65,No
+4,3.7,Paris,France,78,Yes
+5,6.5,New York,USA,92,Yes
+6,2.1,Tokyo,Japan,58,No
+7,4.3,London,UK,85,Yes
+8,0.8,Mumbai,India,52,No
+9,7.2,Paris,France,95,Yes
+10,3.0,New York,USA,71,No
+11,4.8,Berlin,Germany,82,Yes
+12,2.3,Mumbai,India,63,No
+13,5.5,London,UK,89,Yes
+14,1.5,Tokyo,Japan,59,No
+15,6.1,Berlin,Germany,91,Yes
+16,2.8,Paris,France,74,Yes
+17,3.9,New York,USA,79,Yes
+18,4.5,London,UK,83,Yes
+19,1.9,Mumbai,India,60,No
+20,5.2,Berlin,Germany,87,Yes
