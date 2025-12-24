@@ -5,7 +5,7 @@ It leverages a **Logistic Regression model** trained on real medical data to del
 
 ---
 ### Live Link: ``https://heart-guard-ai-iota.vercel.app/``
-``` we are solving the backend issue ``` 
+```The backend is temporarily down due to maintenance and improvements. I’m actively fixing and optimizing it — it will be live again very soon. ``` 
 
 ---
 
