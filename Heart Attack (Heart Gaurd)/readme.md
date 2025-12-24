@@ -127,5 +127,4 @@ The model analyzes **19 features** derived from the following **13 clinical para
 
 This application is intended for educational and research purposes only.<br>
 It is not a substitute for professional medical advice, diagnosis, or treatment.
-cd heartguard-ai
 
