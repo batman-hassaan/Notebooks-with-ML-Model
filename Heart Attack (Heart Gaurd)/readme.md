@@ -4,6 +4,10 @@ HeartGuard AI is a **full-stack machine learning application** designed to predi
 It leverages a **Logistic Regression model** trained on real medical data to deliver **accurate, real-time predictions** with an **88.9% accuracy rate**.
 
 ---
+### Live Link: ``https://heart-guard-ai-iota.vercel.app/``
+``` we are solving the backend issue ``` 
+
+---
 
 ## 🚀 Project Highlights
 
