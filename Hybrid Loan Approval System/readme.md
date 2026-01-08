@@ -124,4 +124,28 @@ This project implements a **hybrid ML architecture** that:
 
 ---
 
-## 📁 Project Structure
+## 🎯 Business Impact
+### This system delivers:
+
+- ✅ Higher approval precision → fewer bad loans
+- ✅ Explainable decisions per risk tier
+- ✅ Scalable architecture — easy to add new tiers or models
+- ✅ Regulatory compliance — interpretable low-risk model (Logistic Regression)<br>
+``Ideal for fintechs, banks, or credit risk teams looking to move beyond one-size-fits-all models.``
+---
+## 🚀 Future Work
+- Add SHAP values for per-prediction explanations
+- Implement online learning for concept drift
+- Extend to multi-class risk scoring (A/B/C/D grades)
+- Deploy as API service with Flask/FastAPI
+
+---
+## 📚 Built With
+- Python 3.9+
+- scikit-learn (Pipelines, KMeans, Classifiers)
+- XGBoost (High-performance gradient boosting)
+- Pandas / NumPy (Data handling)
+- Matplotlib / Seaborn / Plotly (Visualization)
+
+---
+Author: Hassaan Shahid
