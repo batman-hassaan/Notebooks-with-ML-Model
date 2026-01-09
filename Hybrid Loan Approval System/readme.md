@@ -6,6 +6,12 @@
 
 ---
 
+## Live Link (Notebook): 
+> [kaggle](https://www.kaggle.com/code/mrhinmo/loan-approval-system-hybrid-unsup-sup)
+
+---
+
+
 ## 📌 Overview
 
 Traditional loan approval models treat all applicants the same — but banks don’t. High-income customers with excellent credit are evaluated differently than low-income, high-debt applicants.
